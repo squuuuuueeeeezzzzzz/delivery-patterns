@@ -11,7 +11,7 @@ const orders = [
   { weight: 3, distance: 6 },
   { weight: 50, distance: 100 },
   { weight: -5, distance: "bc" },
-  { weight: "abc", distance: -10 }
+  { weight: 10, distance: -10 }
 ];
 
 for (const order of orders) {
